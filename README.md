@@ -101,9 +101,3 @@ The project uses its own logger and disables `discord.py` logging noise.
 
 - Application logs are printed to the console
 - Logs are not written to a file
-
-## Notes
-
-- The bot syncs slash commands on startup
-- A forced command cache reset is performed during startup before syncing commands
-- The bot must have permissions to manage roles, read message history, add reactions, and manage messages where relevant
