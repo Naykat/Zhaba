@@ -1,4 +1,4 @@
-# Reaction Roles Bot
+# Zhaba
 
 A Discord bot for managing reaction-role panels per channel.
 
