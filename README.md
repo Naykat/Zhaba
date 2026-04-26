@@ -107,7 +107,3 @@ The project uses its own logger and disables `discord.py` logging noise.
 - The bot syncs slash commands on startup
 - A forced command cache reset is performed during startup before syncing commands
 - The bot must have permissions to manage roles, read message history, add reactions, and manage messages where relevant
-
-## License
-
-No license file is included in this repository by default.
